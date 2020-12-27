@@ -9,4 +9,4 @@ Projects I wrote or contributed significantly to:
 * [Adaptive Cards](https://github.com/microsoft/adaptivecards)
 * [Lucene.Net Azure Storage](https://github.com/tomlm/Lucene.Net.Store.Azure)
 
-[![Tomlm's github stats](https://github-readme-stats.vercel.app/api?username=tomlm)](https://github.com/tomlm/github-readme-stats)
+[![Tomlm's github stats](https://github-readme-stats.vercel.app/api?username=tomlm&theme=dark)](https://github.com/tomlm/github-readme-stats)
