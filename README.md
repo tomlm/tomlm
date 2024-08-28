@@ -1,6 +1,6 @@
 ### Hi there 
 I'm Tom Laird-McConnell. I am a retired software engineer who got his start as a teenager writing software for commodore computers.  
-I spent over 30 years of my career at Microsoft.
+I spent over 30 years of my career at Microsoft where I worked on things as diverse as networking software, kids software, search engines and conversation AI.
 
 Projects I wrote or have contributed significantly to:
 * [Lucene.Net Azure Storage](https://github.com/tomlm/Lucene.Net.Store.Azure)
