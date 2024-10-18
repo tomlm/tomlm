@@ -8,6 +8,9 @@ Projects:
 * [Iciclecreek.Async](https://github.com/tomlm/Iciclecreek.Async) - Async linq extensions
 * [Linq.AI](https://github.com/tomlm/Linq.AI) - AI extensions for linq
 * [CShell](https://github.com/tomlm/CShell) - batch scripting with dotnet
+* [FlexObject](https://github.com/tomlm/FlexObject) - dynamic base class for objects
+* [ObjectPath](https://github.com/tomlm/ObjectPath) - path manipulation of objects.
+* [ObjectSearch.Net](https://github.com/tomlm/ObjectSearch.Net) - in memory search engine over objects.
 * [Patter.Net](https://github.com/tomlm/Patter.Net) - pattern recognition library
 * [Crazor](https://github.com/microsoft/crazor) - create adaptive cards using ASP.NET Razor files.
 * [Iciclecreek.Bot](https://github.com/tomlm/Iciclecreek.Bot) - Multiple bot related projects
