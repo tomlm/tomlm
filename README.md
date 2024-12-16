@@ -7,6 +7,7 @@ Projects:
 * [YamlConvert](https://github.com/tomlm/YamlConvert) - YAML conversion for Json.NET
 * [Iciclecreek.Async](https://github.com/tomlm/Iciclecreek.Async) - Async linq extensions
 * [Linq.AI](https://github.com/tomlm/Linq.AI) - AI extensions for linq
+* [Consolonia](https://github.com/jinek/consolonia) - Avalonia for Console apps
 * [CShell](https://github.com/tomlm/CShell) - batch scripting with dotnet
 * [FlexObject](https://github.com/tomlm/FlexObject) - dynamic base class for objects
 * [ObjectPath](https://github.com/tomlm/ObjectPath) - path manipulation of objects.
