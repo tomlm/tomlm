@@ -12,7 +12,7 @@ Projects:
 * [ObjectPath](https://github.com/tomlm/ObjectPath) - path manipulation of objects.
 * [ObjectSearch.Net](https://github.com/tomlm/ObjectSearch.Net) - in memory search engine over objects.
 * [Patter.Net](https://github.com/tomlm/Patter.Net) - pattern recognition library
-* [Crazor](https://github.com/microsoft/crazor) - create adaptive cards using ASP.NET Razor files.
+* [Crazor](https://github.com/tomlm/crazor) - create adaptive cards using ASP.NET Razor files.
 * [Iciclecreek.Bot](https://github.com/tomlm/Iciclecreek.Bot) - Multiple bot related projects
 
 While at Microsoft:
