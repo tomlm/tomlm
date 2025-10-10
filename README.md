@@ -5,6 +5,7 @@ I spent over 30 years of my career at Microsoft where I worked on things as dive
 Projects:
 * [Lucene.Net Azure Storage](https://github.com/tomlm/Lucene.Net.Store.Azure) - Lucene indexing on azure
 * [YamlConvert](https://github.com/tomlm/YamlConvert) - YAML conversion for Json.NET
+* [Iciclecreek.Avalonia.Controls](https://github.com/tomlm/Iciclecreek.Avalonia.Controls) - Custom controls for avalonia.
 * [Iciclecreek.Async](https://github.com/tomlm/Iciclecreek.Async) - Async linq extensions
 * [Linq.AI](https://github.com/tomlm/Linq.AI) - AI extensions for linq
 * [Consolonia](https://github.com/jinek/consolonia) - Avalonia for Console apps
