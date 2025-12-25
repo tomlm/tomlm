@@ -5,11 +5,14 @@ I spent over 30 years of my career at Microsoft where I worked on things as dive
 Projects:
 * [Lucene.Net Azure Storage](https://github.com/tomlm/Lucene.Net.Store.Azure) - Lucene indexing on azure
 * [YamlConvert](https://github.com/tomlm/YamlConvert) - YAML conversion for Json.NET
-* [Iciclecreek.Avalonia.Controls](https://github.com/tomlm/Iciclecreek.Avalonia.Controls) - Custom controls for avalonia.
-* [Iciclecreek.Async](https://github.com/tomlm/Iciclecreek.Async) - Async linq extensions
-* [Linq.AI](https://github.com/tomlm/Linq.AI) - AI extensions for linq
 * [Consolonia](https://github.com/jinek/consolonia) - Avalonia for Console apps
 * [CShell](https://github.com/tomlm/CShell) - batch scripting with dotnet
+* [Iciclecreek.Avalonia.Controls](https://github.com/tomlm/Iciclecreek.Avalonia.Controls) - Custom controls for avalonia.
+* [Iciclecreek.Avalonia.TerminalWindow](https://github.com/tomlm/Iciclecreek.Avalonia.TerminalWindow) - XTerm console window for Avalonia
+* [XTerm.Net](https://github.com/tomlm/XTerm.NET) - XTerm for dotnet (xterm.js port)
+* [Porta.Pty](https://github.com/tomlm/Porta.Pty) - Cross plat Pty library 
+* [Iciclecreek.Async](https://github.com/tomlm/Iciclecreek.Async) - Async linq extensions
+* [Linq.AI](https://github.com/tomlm/Linq.AI) - AI extensions for linq
 * [FlexObject](https://github.com/tomlm/FlexObject) - dynamic base class for objects
 * [ObjectPath](https://github.com/tomlm/ObjectPath) - path manipulation of objects.
 * [ObjectSearch.Net](https://github.com/tomlm/ObjectSearch.Net) - in memory search engine over objects.
@@ -21,4 +24,3 @@ While at Microsoft:
 * [Bot Framework SDK for DotNet](https://github.com/microsoft/botbuilder-dotnet/)
 * [Adaptive Cards](https://github.com/microsoft/adaptivecards) 
 
-[![Tomlm's github stats](https://github-readme-stats.vercel.app/api?username=tomlm&theme=dark)](https://github.com/tomlm/github-readme-stats)
