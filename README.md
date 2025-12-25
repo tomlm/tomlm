@@ -9,6 +9,7 @@ Projects:
 * [CShell](https://github.com/tomlm/CShell) - batch scripting with dotnet
 * [Iciclecreek.Avalonia.Controls](https://github.com/tomlm/Iciclecreek.Avalonia.Controls) - Custom controls for avalonia.
 * [Iciclecreek.Avalonia.TerminalWindow](https://github.com/tomlm/Iciclecreek.Avalonia.TerminalWindow) - XTerm console window for Avalonia
+* [Iciclecreek.Avalonia.WindowManager](https://github.com/tomlm/Iciclecreek.Avalonia.WindowManaager) - Overlapping windows implementation for Avalonia 
 * [XTerm.Net](https://github.com/tomlm/XTerm.NET) - XTerm for dotnet (xterm.js port)
 * [Porta.Pty](https://github.com/tomlm/Porta.Pty) - Cross plat Pty library 
 * [Iciclecreek.Async](https://github.com/tomlm/Iciclecreek.Async) - Async linq extensions
